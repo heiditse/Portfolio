@@ -1,6 +1,10 @@
 .menu {
-  background-color: #333;
-  overflow: hidden;
+  background-color: #E5E7E9;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 15px;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 body {
